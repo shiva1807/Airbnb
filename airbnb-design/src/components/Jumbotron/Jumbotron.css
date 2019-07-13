@@ -1,0 +1,32 @@
+.hero {
+  background-image: url("/assets/hero.jpg");
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+}
+.is-active {
+  background: transparent !important;
+}
+.navbar-item {
+  background: transparent !important;
+  font-weight: 500;
+  color: white !important;
+}
+
+a.navbar-item:hover {
+  border-bottom: 3px solid white !important;
+}
+.hero-body {
+  position: relative;
+  left: 4%;
+  top: -10%;
+}
+.navbar {
+  min-height: 78px;
+}
+.nav-container {
+  max-width: 100% !important;
+  margin-left: 20px !important;
+  margin-right: 20px !important;
+}
