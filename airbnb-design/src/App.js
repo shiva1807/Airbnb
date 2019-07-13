@@ -6,9 +6,10 @@ import QuickBooking from "./components/QuickBooking/QuickBooking";
 function App() {
   return (
     <div>
-      <Navbar />
+      {/* <Navbar /> */}
       <Jumbotron />
       <QuickBooking />
+      <div className="button is "
     </div>
   );
 }
