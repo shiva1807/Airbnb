@@ -17,14 +17,14 @@ function App() {
           <Jumbotron />
         </div>
       </div>
+
       <div className="columns is-multiline">
-        <div className="column">
-          <QuickBooking />
-        </div>
-        <div className="column" />
         <div className="column">
           <Card1 />
         </div>
+      </div>
+
+      <div className="columns is-multiline">
         <div className="column">
           <Card2 />
         </div>

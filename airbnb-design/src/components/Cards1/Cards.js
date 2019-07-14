@@ -18,11 +18,11 @@ class Cards extends Component {
             />
           </figure>
         </div>
-        <div className="card-content">
+        <div className="card-content card-1-content">
           <div className="media">
             <div className="media-content">
-              <p className="title is-4">Heading</p>
-              <p className="subtitle is-6">
+              <p className="title is-4 is-size-5-mobile">Heading</p>
+              <p className="subtitle is-6 is-size-7-mobile">
                 lorem ipsum dolor sit lorem ipsum dolor sit lorem ipsum dolor
                 sit lorem ipsum dolor sit{" "}
               </p>

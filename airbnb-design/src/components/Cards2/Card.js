@@ -20,8 +20,8 @@ class Cards extends Component {
       >
         <div class="columns is-mobile is-centered">
           <div class="column para-container-card-2">
-            <p class="line-1 is-size-4">Lorem ipsum</p>
-            <p class="line-2 is-size-5">Lorem Ipsum</p>
+            <p class="line-1 is-size-4 is-size-6-mobile">Lorem ipsum</p>
+            <p class="line-2 is-size-5 is-size-7-mobile">Lorem Ipsum</p>
           </div>
         </div>
       </div>

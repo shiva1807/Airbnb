@@ -13,32 +13,23 @@ class Error extends Component {
   render() {
     return (
       <div className={`error-container ${this.state.visibility}`}>
-        <div class="columns is-centered">
-          <div class="column is-half">
-            <article class="message is-danger">
-              <div class="message-body">
-                <div class="columns">
-                  <div class="column is-one-fifths">
-                    <span class="icon has-text-warning">
-                      <i class="fas fa-2x fa-exclamation-triangle" />
-                    </span>
-                  </div>
-                  <div class="column is-four-fifths ">
-                    <div className="is-pulled-left">
-                      Sorry, something went wrong. Please try again.
-                    </div>
-                  </div>
-                  <div class="column">
-                    <button
-                      class="delete is-pulled-right"
-                      onClick={this.hideMe}
-                    />
-                  </div>
-                </div>
+        <article class="message is-danger">
+          <div class="message-body error-message-body">
+            <span class="icon has-text-warning">
+              <i class="fas fa-2x fa-exclamation-triangle" />
+            </span>
+
+            <div class="error-text ">
+              <div className="is-pulled-left">
+                Sorry, something went wrong. Please try again.
               </div>
-            </article>
+            </div>
+
+            <div class="cross">
+              <button class="delete is-pulled-right" onClick={this.hideMe} />
+            </div>
           </div>
-        </div>
+        </article>
       </div>
     );
   }
