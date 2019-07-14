@@ -5,6 +5,7 @@ import QuickBooking from "./components/QuickBooking/QuickBooking";
 import Card1 from "./components/Cards1/Cards";
 import Card2 from "./components/Cards2/Card";
 import Error from "./components/Error Message/Error Message";
+import ImageTile from "./components/Image-tile/hero";
 import "bulma/css/bulma.css";
 
 function App() {
@@ -30,6 +31,11 @@ function App() {
       <div className="columns is-multiline">
         <div className="column">
           <Error />
+        </div>
+      </div>
+      <div className="columns">
+        <div className="column">
+          <ImageTile />
         </div>
       </div>
     </div>

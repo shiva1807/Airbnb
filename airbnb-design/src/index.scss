@@ -94,3 +94,28 @@ a.navbar-item:hover {
   padding: 0px;
   background-color: red;
 }
+// Landscape Image
+@import url("https://fonts.googleapis.com/css?family=Montserrat&display=swap");
+.hero-image {
+  color: white !important;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  overflow: hidden;
+  border-radius: 5px;
+
+  p {
+    text-align: center;
+  }
+}
+
+.hero-subtitle {
+  color: white;
+  font-family: "Montserrat", sans-serif !important;
+  font-weight: 700 !important;
+}
+.hero-title {
+  color: white !important;
+  font-family: "Montserrat", sans-serif !important;
+  font-weight: 700 !important;
+}
