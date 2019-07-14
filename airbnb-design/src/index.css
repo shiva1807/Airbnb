@@ -133,4 +133,8 @@ a.navbar-item:hover {
   font-family: "Montserrat", sans-serif !important;
   font-weight: 700 !important;
 }
+
+.button-Submit {
+  height: 50px !important;
+}
 /*# sourceMappingURL=index.css.map */
