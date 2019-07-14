@@ -1,7 +1,7 @@
 {
   "name": "airbnb-design",
   "version": "0.1.0",
-  "homepage": "https://aashutoshpanda.github.io/Airbnb/tree/master/airbnb-design",
+  "homepage": "https://aashutoshpanda.github.io/Airbnb/airbnb-design/build/",
   "private": true,
   "dependencies": {
     "gh-pages": "^2.0.1",
