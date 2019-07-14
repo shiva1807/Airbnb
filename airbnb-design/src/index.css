@@ -7,6 +7,11 @@
           box-sizing: border-box;
 }
 
+body {
+  overflow-y: hidden;
+  overflow-x: hidden;
+}
+
 .card-1 {
   max-width: 400px !important;
   border-radius: 10px;

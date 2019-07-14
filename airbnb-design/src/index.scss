@@ -3,7 +3,10 @@
   padding: 0;
   box-sizing: border-box;
 }
-
+body {
+  overflow-y: hidden;
+  overflow-x: hidden;
+}
 //                  CARD-1
 .card-1 {
   max-width: 400px !important;
