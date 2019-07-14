@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Airbnb/airbnb-design/build/static/css/main.b0872f74.chunk.css",
+    "main.css": "/Airbnb/airbnb-design/build/static/css/main.f9e12485.chunk.css",
     "main.js": "/Airbnb/airbnb-design/build/static/js/main.825c9c39.chunk.js",
     "main.js.map": "/Airbnb/airbnb-design/build/static/js/main.825c9c39.chunk.js.map",
     "runtime~main.js": "/Airbnb/airbnb-design/build/static/js/runtime~main.51eff4f0.js",
@@ -9,9 +9,9 @@
     "static/js/2.e793536b.chunk.js": "/Airbnb/airbnb-design/build/static/js/2.e793536b.chunk.js",
     "static/js/2.e793536b.chunk.js.map": "/Airbnb/airbnb-design/build/static/js/2.e793536b.chunk.js.map",
     "index.html": "/Airbnb/airbnb-design/build/index.html",
-    "precache-manifest.d53aabd860a9156dc571fe0fca24518f.js": "/Airbnb/airbnb-design/build/precache-manifest.d53aabd860a9156dc571fe0fca24518f.js",
+    "precache-manifest.2eb9037235601c95ac1966facbd2de44.js": "/Airbnb/airbnb-design/build/precache-manifest.2eb9037235601c95ac1966facbd2de44.js",
     "service-worker.js": "/Airbnb/airbnb-design/build/service-worker.js",
     "static/css/2.160cff76.chunk.css.map": "/Airbnb/airbnb-design/build/static/css/2.160cff76.chunk.css.map",
-    "static/css/main.b0872f74.chunk.css.map": "/Airbnb/airbnb-design/build/static/css/main.b0872f74.chunk.css.map"
+    "static/css/main.f9e12485.chunk.css.map": "/Airbnb/airbnb-design/build/static/css/main.f9e12485.chunk.css.map"
   }
 }
