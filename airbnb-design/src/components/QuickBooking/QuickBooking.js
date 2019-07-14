@@ -21,13 +21,13 @@ class QuickBooking extends Component {
           <div className="field">
             <h6
               id="subtitle-book"
-              class="subtitle  is-6 label is-pulled-left heading"
+              class="subtitle  is-6 label is-size-6-mobile is-pulled-left heading"
             >
               Where
             </h6>
             <div className="control">
               <input
-                className="input is-medium"
+                className="input book-input is-medium"
                 type="text"
                 placeholder="AnyWhere"
               />
@@ -37,12 +37,12 @@ class QuickBooking extends Component {
           <div className="field">
             <h6
               id="subtitle-book"
-              class="subtitle is-6 label is-pulled-left heading"
+              class="subtitle is-6 label is-pulled-left heading is-size-6-mobile"
             >
               GUESTS
             </h6>
             <div className="control">
-              <div className="select is-medium">
+              <div className="select book-input is-medium">
                 <select>
                   <option>GUESTS</option>
                   <option>GUESTS</option>
