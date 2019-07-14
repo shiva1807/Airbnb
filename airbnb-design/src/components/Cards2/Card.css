@@ -1,0 +1,21 @@
+@import url("https://fonts.googleapis.com/css?family=Montserrat&display=swap");
+.card-2 {
+  width: 259px;
+  height: 319px;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  border-radius: 5px;
+  color: white;
+}
+.card-2 p {
+  text-align: center;
+}
+.para-container-card-2 {
+  margin-top: 80%;
+}
+.line-1,
+.line-2 {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 700 !important;
+}
