@@ -44,6 +44,11 @@ function App() {
           <Button />
         </div>
       </div>
+      <div className="columns is-centered">
+        <div className="column is-half">
+          <QuickBooking />
+        </div>
+      </div>
     </div>
   );
 }

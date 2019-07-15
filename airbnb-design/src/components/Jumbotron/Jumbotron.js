@@ -44,11 +44,6 @@ class Jumbotron extends Component {
             </div>
           </nav>
         </div>
-
-        {/* <!-- Hero content: will be in the middle --> */}
-        <div className="hero-body">
-          <QuickBooking />
-        </div>
       </section>
     );
   }
