@@ -33,6 +33,21 @@ class QuickBooking extends Component {
               />
             </div>
           </div>
+          <div className="field">
+            <h6
+              id="subtitle-book"
+              class="subtitle  is-6 label is-size-6-mobile is-pulled-left heading"
+            >
+              Where
+            </h6>
+            <div className="control">
+              <input
+                className="input book-input is-medium"
+                type="text"
+                placeholder="AnyWhere"
+              />
+            </div>
+          </div>
 
           <div className="field">
             <h6
