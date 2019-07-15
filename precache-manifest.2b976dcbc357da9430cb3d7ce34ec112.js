@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ed368ed01db3c88980cac06839747db0",
+    "revision": "e1cf0de1867a14d5b3ac8fbd0d46ceb7",
     "url": "/Airbnb/airbnb-design/build/index.html"
   },
   {
-    "revision": "710789c3a7b00d78d05a",
-    "url": "/Airbnb/airbnb-design/build/static/css/2.160cff76.chunk.css"
+    "revision": "a3380ff3924c204033ce",
+    "url": "/Airbnb/airbnb-design/build/static/css/2.f5f2dc31.chunk.css"
   },
   {
-    "revision": "de18c6a3a9e816b7ffff",
+    "revision": "bbbb95f94619dd884f38",
     "url": "/Airbnb/airbnb-design/build/static/css/main.d901e59d.chunk.css"
   },
   {
-    "revision": "710789c3a7b00d78d05a",
+    "revision": "a3380ff3924c204033ce",
     "url": "/Airbnb/airbnb-design/build/static/js/2.e793536b.chunk.js"
   },
   {
-    "revision": "de18c6a3a9e816b7ffff",
-    "url": "/Airbnb/airbnb-design/build/static/js/main.bd603c14.chunk.js"
+    "revision": "bbbb95f94619dd884f38",
+    "url": "/Airbnb/airbnb-design/build/static/js/main.24c94e8e.chunk.js"
   },
   {
     "revision": "31c12570ac93bffe5008",
