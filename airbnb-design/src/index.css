@@ -13,13 +13,13 @@ body {
 }
 
 .card-1 {
-  max-width: 400px !important;
-  border-radius: 10px;
+  max-width: 350px !important;
+  border-radius: 12px;
 }
 
 @media (max-width: 750px) {
   .card-1-content {
-    padding: 5px 5px 5px 10px !important;
+    padding: 5px 5px 5px 13px !important;
   }
 }
 
